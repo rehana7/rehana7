@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 🤔 I’m interseted in learning new things.
 - 📫 How to reach me: rehananaguru@gmail.com
 
-
+## Big Data <br/>
+[beam-pagerank-go](https://github.com/rehana7/beam-pagerank-go) <br/>
+[beam-go](https://github.com/rehana7/beam-go) <br/>
+[python-word-count-beam](https://github.com/rehana7/Python-word-count-beam) <br/>
+[java-word-count-beam](https://github.com/rehana7/word-count-beam) <br/>
+[map-reduce](https://github.com/rehana7/map-reduce-rehana)
+[big-data-dev](https://github.com/rehana7/big-data-dev)

@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 
 - 🤔 I’m interseted in learning new things.
 - 📫 How to reach me: nrehana121@gmail.com 
 <!-- email: S545514@nwmissouri.edu

@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 <!-- email: S545514@nwmissouri.edu
      919No: 919611245
 -->
+## Angular Projects <br/>
+.[Vendor_Track](https://github.com/rehana7/Vendor_Track) <br/>
 
 ## Big Data <br/>
 [beam-pagerank-go](https://github.com/rehana7/beam-pagerank-go) <br/>
